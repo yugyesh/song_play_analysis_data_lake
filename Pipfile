@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 black = "==21.10b0"
+pyspark = "*"
 
 [dev-packages]
 pylint = "*"
