@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Aws cfg
+dl.cfg
 # C extensions
 *.so
 
@@ -10,6 +12,7 @@ __pycache__/
 data/
 
 # Distribution / packaging
+.vscode/
 .Python
 build/
 develop-eggs/
